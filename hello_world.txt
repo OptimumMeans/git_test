@@ -1,1 +1,2 @@
 Hey! This is a cool test. Git is so awesome!
+Another test.. on my own this time. Pretty cool, hopefully it works.
